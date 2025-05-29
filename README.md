@@ -18,7 +18,7 @@ The search results are displayed as clickable images that lead to each show's de
 - JavaScript (ES6)
 - Axios (for API calls)
 
-##💡 How to Use
+💡 How to Use
 
 1. Open `tv.html` in a browser.
 2. Enter a TV show name in the search box.

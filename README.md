@@ -1,24 +1,24 @@
- TV-show-search-form2
+## TV-show-search-form2
 
-TV Program Search App
+##TV Program Search App
 
 This is a simple web application that allows users to search for TV shows using the [TVmaze API](https://www.tvmaze.com/api).  
 The search results are displayed as clickable images that lead to each show's detail page.
 
- 🚀 Features
+## 🚀 Features
 
 - Search for TV shows by name
 - Show clickable thumbnail images of the results
 - Open show details in a new tab
 - Built with pure HTML, JavaScript, and Axios
 
- 🔧 Technologies Used
+## 🔧 Technologies Used
 
 - HTML5
 - JavaScript (ES6)
 - Axios (for API calls)
 
-💡 How to Use
+##💡 How to Use
 
 1. Open `tv.html` in a browser.
 2. Enter a TV show name in the search box.

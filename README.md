@@ -5,7 +5,8 @@
 This is a simple web application that allows users to search for TV shows using the [TVmaze API](https://www.tvmaze.com/api).  
 The search results are displayed as clickable images that lead to each show's detail page.
 
-![デモGIF](./demoGif)
+![Uploading 無題の動画 ‐ Clipchampで作成.gif…](./demoGif)
+
 
 ## 🚀 Features
 

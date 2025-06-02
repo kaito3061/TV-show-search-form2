@@ -9,7 +9,8 @@ The search results are displayed as clickable images that lead to each show's de
 
 
 ## 📺 Demo
-![Demo](./demo.gif)
+![demo](https://github.com/user-attachments/assets/2bf62496-10d9-41be-b49a-a13d7443c41a)
+
 
 
 
@@ -43,7 +44,8 @@ The search results are displayed as clickable images that lead to each show's de
 検索結果は番組の画像付きで表示され、画像をクリックすると番組の詳細ページにアクセスできます。
 
 ## 📺 デモ動画
-![Demo](./demo.gif)
+![Uploading demo.gif…]()
+
 
  🚀 主な機能
 

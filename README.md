@@ -1,4 +1,4 @@
-![無題の動画 ‐ Clipchampで作成](https://github.com/user-attachments/assets/9ec93cc0-aa45-4966-a1ac-d777c75be993)## TV-show-search-form2
+## TV-show-search-form2
 
 ##TV Program Search App
 
@@ -10,6 +10,7 @@ The search results are displayed as clickable images that lead to each show's de
 
 ## 📺 Demo
 ![Uploading demo.gif…]()
+
 
 
 
@@ -40,6 +41,9 @@ The search results are displayed as clickable images that lead to each show's de
 
 このアプリは、[TVmaze API](https://www.tvmaze.com/api) を使ってテレビ番組を検索できる、シンプルなWebアプリケーションです。  
 検索結果は番組の画像付きで表示され、画像をクリックすると番組の詳細ページにアクセスできます。
+
+## 📺 デモ動画
+![Uploading demo.gif…]()
 
  🚀 主な機能
 

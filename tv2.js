@@ -39,7 +39,7 @@ const makeImages = (results) => {
             const img = document.createElement('IMG');
             img.src = result.show.image.medium;
 
-            // 🔽 aタグを作って画像を中に入れる
+            //  aタグを作って画像を中に入れる
             const link = document.createElement('a');
             link.href = result.show.url; // 番組の詳細ページURL
             link.target = "_blank"; // 新しいタブで開く

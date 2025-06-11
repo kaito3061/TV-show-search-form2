@@ -69,6 +69,83 @@
 
 
 
+# 📺 TV Show Search App
+
+This is a simple web application that allows users to search for TV shows using the [TVmaze API](https://www.tvmaze.com/api).  
+Search results are displayed with show images, and clicking on an image takes the user to the detailed page for that show.
+
+## 📹 Demo Video  
+![demo](https://github.com/user-attachments/assets/2bf62496-10d9-41be-b49a-a13d7443c41a)
+
+## 🎯 Motivation
+
+This app was created as a project to practice using Web APIs and improve practical JavaScript skills.  
+Since I enjoy watching movies and TV shows, I wanted to create a tool I could personally use to search for TV content.
+
+Through this project, my main learning objectives were:
+
+- Understand how to work with external APIs (TVmaze)
+- Learn to handle asynchronous communication using Axios
+- Practice DOM manipulation and event handling
+- Build a user-friendly and functional search interface
+
+Additionally, developing a fully functional web application helped solidify my learning and provided a real-world context for applying new skills.
+
+---
+
+## 🚀 Key Features
+
+- Search TV shows by name
+- Display search results with images
+- Clickable images link to each show's detailed page
+- Lightweight app built with HTML, JavaScript, and Axios
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- JavaScript (ES6)  
+- Axios (for API communication)
+
+---
+
+## 💡 How to Use
+
+1. Download `tv.html` and `tv2.js` to your local machine.
+2. Open `tv.html` in your web browser.
+3. Enter a TV show name into the search form.
+4. Click the "Search" button to display the results with images.
+5. Click on an image to open the show's detailed page in a new tab.
+6. New searches will replace previous results automatically.
+7. If no image is available for a result, a "Not Found" message is displayed. This message also disappears on a new search.
+
+---
+
+##  Why Axios for API Communication?
+
+1. Although I initially learned using Fetch API, I chose Axios because it simplifies many tasks such as JSON parsing, adding headers, setting timeouts, and clear error handling — making the app more maintainable and scalable.
+2. Axios also provides excellent documentation, which made it easier for me as a learner to write more professional and clean code.
+
+---
+
+##  Planned Features (Targeting August 2025)
+
+- 🔁 Save search history (local storage)  
+- ⭐ Favorite show bookmarking  
+- 🔍 Filter by genre and language  
+- 📱 Responsive design (mobile/tablet support)  
+- 🌐 Multilingual support (English/Japanese toggle)  
+- 🧩 Refactor with React for modular and scalable structure  
+- 🌍 Deploy to Vercel
+
+---
+
+## 📈 Future Improvements
+
+- Better understanding of the API's response structure to reduce bugs  
+- Add placeholder images and improve error UI for a better user experience  
+- Consider using frameworks like React and architectural patterns to improve maintainability as the app grows
 
 
 

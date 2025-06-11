@@ -69,6 +69,11 @@
 
 
 
+
+
+
+
+# Explanation in English 
 # 📺 TV Show Search App
 
 This is a simple web application that allows users to search for TV shows using the [TVmaze API](https://www.tvmaze.com/api).  

@@ -63,10 +63,11 @@
 
 ## 📈 今後の改善方針
 
--　API通信に失敗した時のエラーハンドリングなどを追加していきたい。
+
 - APIの仕様やレスポンス構造を事前に正確に把握して、開発時のつまずきを減らします。
 - データがないときのプレースホルダー画像表示や、エラーメッセージのデザインなど、ユーザー体験の改善に注力します。
 - 機能の追加に伴い、コードの可読性・再利用性を考慮して、Reactや設計パターンの導入を検討中です。
+- API通信に失敗した時のエラーハンドリングなどを追加していきたい。
 
 
 
@@ -149,10 +150,11 @@ Additionally, developing a fully functional web application helped solidify my l
 
 ## 📈 Future Improvements
 
-- add error handling for failed API requests and improve the application's robustness 
+
 - Better understanding of the API's response structure to reduce bugs  
 - Add placeholder images and improve error UI for a better user experience  
 - Consider using frameworks like React and architectural patterns to improve maintainability as the app grows
+- Add error handling for failed API requests and improve the application's robustness 
 
 
 

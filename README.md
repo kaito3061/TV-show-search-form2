@@ -43,7 +43,7 @@
 3. 「検索」ボタンを押すと、画像付きで結果が表示されます。
 4. 画像をクリックすると、番組の詳細ページが新しいタブで開きます。
 5. また新たに番組を検索すると、前回の検索の結果を画面から削除し、新しく検索した番組が表示されます。
-6. もし、検索した番組に画像がなかった場合は『見つかりませんでした』と表示します。
+6. もし、検索した番組がなかった場合は『見つかりませんでした』と表示します。
 7. またこの『見つかりませんでした』の表現も新たに番組検索をすると消えるようにしています。
 　
 
@@ -123,7 +123,7 @@ Additionally, developing a fully functional web application helped solidify my l
 4. Click the "Search" button to display the results with images.
 5. Click on an image to open the show's detailed page in a new tab.
 6. New searches will replace previous results automatically.
-7. If no image is available for a result, a "Not Found" message is displayed. This message also disappears on a new search.
+7. If no　avalable result, a "Not Found" message is displayed. This message also disappears on a new search.
 
 ---
 

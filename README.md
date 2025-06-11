@@ -59,7 +59,7 @@
 - 📱 レスポンシブ対応（スマホ・タブレットでの最適表示）
 - 🌐 多言語対応（日本語/英語 切り替え機能）
 - 🧩 Reactによるリファクタリング（関数の分離・保守性向上）
-- デプロイ（Vercelを予定）
+- デプロイ（VercelかNetlifyを予定）
 
 ## 📈 今後の改善方針
 
@@ -142,7 +142,7 @@ Additionally, developing a fully functional web application helped solidify my l
 - 📱 Responsive design (mobile/tablet support)  
 - 🌐 Multilingual support (English/Japanese toggle)  
 - 🧩 Refactor with React for modular and scalable structure  
-- 🌍 Deploy to Vercel
+- 🌍 Deploy to Vercel or Netlify
 
 ---
 
